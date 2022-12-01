@@ -1,9 +1,11 @@
+<img src="https://i.imgur.com/Z9n1y5S.gif" height="27%" width="27%" align="right"><br>
+
 - 👋 Hi, I’m @evandrolucas60
 - 🌱 I’m currently learning typeScript and Kotlin...
 - 🌎 languages: Portuguese/English
 - 😉 Hobbies: Games and TvShows
 - 🚿 Fun Fact: the best shower singer in the world. source: my mother
-
+<br>
 <div align="center">
   <a href="https://github.com/evandrolucas60">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evandrolucas60&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
