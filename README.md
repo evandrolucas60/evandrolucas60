@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Z9n1y5S.gif" height="27%" width="27%" align="right"><br>
+
 
 - 👋 Hi, I’m @evandrolucas60
 - 🌱 I’m currently learning typeScript and Kotlin...
