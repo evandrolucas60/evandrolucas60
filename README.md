@@ -8,8 +8,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/evandrolucas60">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evandrolucas60&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrolucas60&layout=compact&langs_count=7&theme=onedark"/>
+  <img align="left" height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrolucas60&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -18,7 +17,6 @@
   <img align="center" alt="Evandro-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Evandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Evandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Evandro-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Evandro-CPlusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
   
