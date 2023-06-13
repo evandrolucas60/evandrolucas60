@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @evandrolucas60
-- 🌱 I’m currently learning typeScript and Kotlin...
+- 🌱 I’m currently learning typeScript and python...
 - 🌎 languages: Portuguese/English
 - 😉 Hobbies: Games and TvShows
 - 🚿 Fun Fact: the best shower singer in the world. source: my mother
