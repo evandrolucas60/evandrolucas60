@@ -8,7 +8,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/evandrolucas60">
-  <img align="left" height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrolucas60&layout=compact&langs_count=7&theme=onedark"/>
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrolucas60&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
 <div style="display: inline_block"><br>
