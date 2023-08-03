@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning typeScript and python...
 - 🌎 languages: Portuguese/English
 - 😉 Hobbies: Games and TvShows
-- 🚿 Fun Fact: the best shower singer in the world. source: my mother
+
 <br>
 <div align="center">
   <a href="https://github.com/evandrolucas60">
