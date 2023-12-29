@@ -1,7 +1,7 @@
 
 
-- 👋 Hi, I’m @evandrolucas60
-- 🌱 I’m currently learning typeScript and python...
+- 👋 Hi there
+- 🌱 Growing up...
 - 🌎 languages: Portuguese/English
 - 😉 Hobbies: Games and TvShows
 
