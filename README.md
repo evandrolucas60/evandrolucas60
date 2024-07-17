@@ -15,7 +15,8 @@ Feel free to check out my repositories and connect with me on GitHub. I'm always
 <br>
 <div align="center">
   <a href="https://github.com/evandrolucas60">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrolucas60&layout=compact&langs_count=7&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrolucas60&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evandrolucas60&theme=radical" alt="evandrolucas60" />
 </div>
     
   <h3 align="left">Languages and Tools:</h3>
