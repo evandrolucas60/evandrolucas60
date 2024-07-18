@@ -1,5 +1,5 @@
 <h1 align="center">Hello Fellow < Developers/ ></h1>
-<h3 align="center"> I'm evandrolucas60, A passionate Web developer from Brazil</h3>
+<h3 align="center"> I'm evandrolucas60, A passionate developer from Brazil</h3>
   
 I am a C# Developer, specialized in .NET Core, with experience in the robust development of web applications and APIs. My expertise ranges from design and implementation to optimization and scalability of software solutions, using modern technologies and agile methodologies.
 
