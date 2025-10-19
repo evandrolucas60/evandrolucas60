@@ -1,9 +1,17 @@
 <h1 align="center">Hello Fellow < Developers/ ></h1>
 <h3 align="center"> I'm evandrolucas60, A passionate developer from Brazil</h3>
   
-I am a C# Developer, specialized in .NET Core, with experience in the robust development of web applications and APIs. My expertise ranges from design and implementation to optimization and scalability of software solutions, using modern technologies and agile methodologies.
+Software Architect specialized in .NET Core, with solid experience in developing web applications, RESTful APIs, and scalable cloud-based solutions. I work across all stages of the software development lifecycle—from conception to continuous delivery—focusing on quality, performance, and sustainable evolution.
 
-Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
+As a full-stack developer, I have strong skills in HTML, CSS, JavaScript, Bootstrap, and React.js, which allow me to build modern, responsive interfaces integrated with robust back-end systems.
+
+On the back end, I combine C#/.NET Core expertise with modern DevOps and Cloud Native practices, leveraging Docker, Kubernetes, Azure DevOps, and Azure services for orchestration, automated deployment, and monitoring.
+
+I’m also passionate about automation with Python, applying it to build chatbots, computer vision solutions, and tools for repetitive task automation. Additionally, I study Machine Learning techniques focused on facial recognition, object tracking, and applied artificial intelligence.
+
+Beyond technology, I’m driven by curiosity and creativity. I study music, read extensively, and am a huge fan of video games, especially horror titles. In my spare time, I enjoy creating 2D games, learning pixel art, and spending time at the beach. Oh—and I’m an animal lover through and through; dogs and cats have always been a big part of my life.
+
+📚 I’m currently pursuing a postgraduate degree in Software Architecture and constantly seeking challenges that allow me to integrate modern technologies, collaborate with multidisciplinary teams, and build innovative, scalable cloud solutions.
  <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -30,7 +38,8 @@ Feel free to check out my repositories and connect with me on GitHub. I'm always
   <img align="center" alt="Evandro-Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Evandro-Kubernetes" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   <img align="center" alt="Evandro-Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-  <img align="center" alt="Evandro-Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Evandro-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Evandro-unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 </div>
   
   ##
