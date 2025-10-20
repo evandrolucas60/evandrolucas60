@@ -11,9 +11,6 @@ I’m also passionate about automation with Python, applying it to build chatbot
 
 Beyond technology, I’m driven by curiosity and creativity. I study music, read extensively, and am a huge fan of video games, especially horror titles. In my spare time, I enjoy creating 2D games, learning pixel art, and spending time at the beach. Oh—and I’m an animal lover through and through; dogs and cats have always been a big part of my life.
 
-📚 I’m currently pursuing a postgraduate degree in Software Architecture and constantly seeking challenges that allow me to integrate modern technologies, collaborate with multidisciplinary teams, and build innovative, scalable cloud solutions.
- <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!---
