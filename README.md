@@ -1,15 +1,15 @@
 <h1 align="center">Hello Fellow < Developers/ ></h1>
 <h3 align="center"> I'm evandrolucas60, A passionate developer from Brazil</h3>
-  
-Software Architect specialized in .NET Core, with solid experience in developing web applications, RESTful APIs, and scalable cloud-based solutions. I work across all stages of the software development lifecycle—from conception to continuous delivery—focusing on quality, performance, and sustainable evolution.
 
-As a full-stack developer, I have strong skills in HTML, CSS, JavaScript, Bootstrap, and React.js, which allow me to build modern, responsive interfaces integrated with robust back-end systems.
+Software Architect specializing in .NET Core, with solid experience in developing web applications, RESTful APIs, and scalable cloud-based systems. I work across the entire software development lifecycle, from architecture and design to deployment and continuous delivery, always focusing on performance, reliability, and maintainable solutions.
 
-On the back end, I combine C#/.NET Core expertise with modern DevOps and Cloud Native practices, leveraging Docker, Kubernetes, Azure DevOps, and Azure services for orchestration, automated deployment, and monitoring.
+As a full-stack developer, I have strong experience with HTML, CSS, JavaScript, Bootstrap, and React.js, enabling me to build modern, responsive user interfaces integrated with robust backend services.
 
-I’m also passionate about automation with Python, applying it to build chatbots, computer vision solutions, and tools for repetitive task automation. Additionally, I study Machine Learning techniques focused on facial recognition, object tracking, and applied artificial intelligence.
+On the backend, I leverage C# and .NET Core alongside DevOps and Cloud Native practices, using technologies such as Docker, Kubernetes, Azure DevOps, and Microsoft Azure for containerization, orchestration, automated deployment, and monitoring of distributed systems.
 
-Beyond technology, I’m driven by curiosity and creativity. I study music, read extensively, and am a huge fan of video games, especially horror titles. In my spare time, I enjoy creating 2D games, learning pixel art, and spending time at the beach. Oh—and I’m an animal lover through and through; dogs and cats have always been a big part of my life.
+I am also passionate about automation with Python, developing solutions such as chatbots, computer vision systems, and tools for automating repetitive processes. In parallel, I study Machine Learning techniques, particularly in areas like facial recognition, object tracking, and applied artificial intelligence.
+
+Beyond technology, I’m driven by curiosity and creativity. I enjoy studying music, reading, and exploring video games, especially horror titles. In my free time, I like creating 2D games, learning pixel art, and spending time at the beach. I’m also an animal lover—dogs and cats have always been part of my life.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
